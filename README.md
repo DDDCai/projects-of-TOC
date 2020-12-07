@@ -1,5 +1,5 @@
 # projects-of-TOC
-Projects of Theory Of Computation class in HIT(SZ), 2019.
+Projects of Theory Of Computation course in HIT(SZ), 2019.
 
 # environment
 language C, Ubuntu 18.04.
